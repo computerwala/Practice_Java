@@ -5,9 +5,11 @@ package LeetCode;
 public class removeDuplicates {
 
     public int removeDuplicates(int[] nums) {
-        if (nums.length == 0) return 0; // Edge case: Empty array
+        if (nums.length == 0) {
+            return 0;
+        }
 
-        int j = 0; // Pointer for unique elements
+        int j = 0;
 
         for (int i = 0; i < nums.length; i++) {
             if (i == 0 || nums[i] != nums[j - 1]) { // Check uniqueness
@@ -16,7 +18,7 @@ public class removeDuplicates {
             }
         }
 
-        return j; // Number of unique elements
+        return j;
     }
 
     public static void main(String[] args) {

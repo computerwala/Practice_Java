@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c089f9aa-e72d-499b-b42a-c497e6eab621" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RotationArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Celling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/removeDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainBubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainLinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/SquareStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/reversePyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/FindNumberofEvenNumberofDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/RichestCustomerwealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/removeDuplicates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/aman/Documents/java_practice/QuestionsPractice/DSA"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.removeDuplicates">
     <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.RotateArray" />
