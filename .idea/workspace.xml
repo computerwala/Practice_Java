@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c089f9aa-e72d-499b-b42a-c497e6eab621" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/FindNumberofEvenNumberofDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/RichestCustomerwealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/RowColMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/removeDuplicates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/aman/Documents/java_practice/QuestionsPractice/DSA"
+    "last_opened_file_path": "/Users/aman/Documents/java_practice/QuestionsPractice/DSA",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager" selected="Application.removeDuplicates">
@@ -105,9 +103,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.removeDuplicates" />
-        <item itemvalue="Application.RotationArray" />
-        <item itemvalue="Application.SecondLargest (1)" />
         <item itemvalue="Application.SecondLargest" />
+        <item itemvalue="Application.SecondLargest (1)" />
+        <item itemvalue="Application.RotationArray" />
         <item itemvalue="Application.RotateArray" />
       </list>
     </recent_temporary>
